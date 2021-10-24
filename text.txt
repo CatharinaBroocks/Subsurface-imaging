@@ -1,6 +1,0 @@
-Reasoning:
--Inverse problem
--Multi-path analysis for seismic experiments required
--Quantum Image ideally covers all paths, more precise
--Here: Inverse quadratic problem
--Quantum Speedup, easier to calculate all options
