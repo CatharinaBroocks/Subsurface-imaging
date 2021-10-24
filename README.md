@@ -10,7 +10,7 @@ To realize these projects, meaningful models of the seabed are important, but su
     - Firefly Algorithm
     - Whale Swarm Optimization
 - Simulated Annealing [Rothman, 1985]
-- methods in research Quantum Annealing
+- method in research: Quantum Annealing
 ## What we do
 We want to implement an equivalent gate-based solution in Qiskit. Using as a basis the research, which has been done on solving this problem by using Quantum Annealing.
 ## What we did
